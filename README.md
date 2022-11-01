@@ -36,7 +36,3 @@ This course has the following software requirements:<br/>
 * [Ethical Hacking Masterclass [Video]](https://www.packtpub.com/in/networking-and-servers/ethical-hacking-masterclass-video)
 
 * [End-to-End Penetration Testing with Kali Linux [Video]](https://www.packtpub.com/in/networking-and-servers/end-end-penetration-testing-kali-linux-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789346145">https://packt.link/free-ebook/9781789346145 </a> </p>
