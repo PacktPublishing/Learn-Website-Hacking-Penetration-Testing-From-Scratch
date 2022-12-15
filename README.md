@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789346145)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Software Automation Using Puppet For Beginners [Video]
 This is the code repository for [Software Automation Using Puppet For Beginners [Video]](https://www.packtpub.com/virtualization-and-cloud/software-automation-using-puppet-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781789614053), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
